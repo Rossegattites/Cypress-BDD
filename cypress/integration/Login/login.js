@@ -1,5 +1,5 @@
 import { Given, When, And, Then} from "cypress-cucumber-preprocessor/steps";
-
+//cypress 
 Given('A user enters to the login page', ()=> {
     cy.visit('/')
 })
